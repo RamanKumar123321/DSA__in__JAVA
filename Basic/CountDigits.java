@@ -9,7 +9,7 @@ public class CountDigits{
             a=a/10;
             count++;
         }
-        System.out.println("Number of digits: " +count);
+        System.out.println("Reverse of Number is: " +count);
     }
 
 }
