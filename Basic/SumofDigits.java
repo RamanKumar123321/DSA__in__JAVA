@@ -11,6 +11,6 @@ public class SumofDigits {
             sum+=b;
             a=a/10;
         }
-        System.out.println("Number of digits: " +sum);
+        System.out.println("Sum of the Digits: " +sum);
     }
 }
