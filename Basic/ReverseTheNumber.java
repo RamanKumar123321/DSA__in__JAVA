@@ -10,6 +10,6 @@ public class ReverseTheNumber {
             b=b*10 +c;
             a=a/10;
         }
-        System.out.println("Number of digits: " + b);
+        System.out.println("Reverse of Number is: " + b);
     }
 }
